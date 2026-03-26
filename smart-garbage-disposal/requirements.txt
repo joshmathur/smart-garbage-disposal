@@ -1,0 +1,8 @@
+# Smart Garbage Disposal System — Python dependencies
+# Install with: pip install -r requirements.txt
+
+pyserial>=3.5               # USB serial communication with Micro:bit
+huskylensPythonLibrary>=0.1 # HuskyLens AI camera interface
+
+# Dev / testing
+pytest>=7.0
