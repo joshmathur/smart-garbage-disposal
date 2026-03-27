@@ -143,8 +143,3 @@ The host Python backend and Micro:bit communicate over USB serial using newline-
 
 Built at the York University k2i Academy STEM Challenge 2024 by a cross-functional team of four. Placed **Top 3 overall** out of all competing teams.
 
----
-
-## License
-
-MIT
